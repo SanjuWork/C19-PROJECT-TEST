@@ -1,1 +1,2 @@
-# C19-PROJECT-TEST
+# trex
+Chrome's trex game created using p5.play
